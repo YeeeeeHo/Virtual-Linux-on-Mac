@@ -18,7 +18,7 @@ https://releases.ubuntu.com/?_ga=2.84392030.69149920.1697874841-431537805.169381
 
 7. Linux
 <img width="421" alt="스크린샷 2023-10-21 16 49 15" src="https://github.com/YeeeeeHo/Virtual-Linux-on-Mac/assets/139672321/0eb0a4ad-428d-4fbc-b728-fe29833d9338">
--a8a2da94162b">
+
 
 9. Choose Boot iso Image File
 
