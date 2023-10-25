@@ -22,6 +22,6 @@ https://releases.ubuntu.com/?_ga=2.84392030.69149920.1697874841-431537805.169381
 
 9. Choose Boot iso Image File
 <img width="421" alt="스크린샷 2023-10-21 16 49 25" src="https://github.com/YeeeeeHo/Virtual-Linux-on-Mac/assets/139672321/a84fa442-c837-4081-8397-635829b35cea">
-833d9338">
+
 
 10. Setup Linux
